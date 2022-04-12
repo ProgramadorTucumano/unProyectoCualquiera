@@ -1,3 +1,7 @@
 Hola y chau distinto, en la rama-nueva-caracteristica
 
+<<<<<<< HEAD
 modificacion en rama-carolina
+=======
+modificaciones en develop
+>>>>>>> develop
